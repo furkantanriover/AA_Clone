@@ -4,10 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - donenCemberTag
-  - anaCemberTag
-  - oyunYoneticisiTag
-  - kucukCemberTag
+  - TagSpinningCircle
+  - TagGameManager
+  - TagMainCircle
+  - TagSmallCircle
   layers:
   - Default
   - TransparentFX

@@ -6,15 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Leveller/AnaMenu.unity
-    guid: 607fecefe09d12a4d9d7a1471607bd7a
+    path: Assets/Levels/MainMenu.unity
+    guid: 4704ac3a38f7e12458ede9097a9665da
   - enabled: 1
-    path: Assets/Leveller/1.unity
-    guid: e21e7bc21cd4e7f4aa39277ed25e2aa8
+    path: Assets/Levels/1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Leveller/2.unity
-    guid: fe301a290917ffc499286bd608d4fce6
+    path: Assets/Levels/2.unity
+    guid: cce0ed07cfc23574dbe05a1d6bdec7a6
   - enabled: 1
-    path: Assets/Leveller/3.unity
-    guid: a126794563b1b3e4b9068e3b6eab9ece
+    path: Assets/Levels/3.unity
+    guid: e80d475b7389bf64391b7c2e4178a02b
   m_configObjects: {}
